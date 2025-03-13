@@ -1,7 +1,7 @@
 
 # 中国茶文化 - Chinese Tea Culture Presentation Script
 
-## 第一部分：介绍 (Part 1: Introduction) - 约75个汉字
+## 第一部分：介绍 (Part 1: Introduction) ~75 chars
 
 **大家好！**  
 *Dà jiā hǎo!*  
@@ -20,7 +20,7 @@ Chinese people have been drinking tea for over 5,000 years.
 Tea is very important in Chinese daily life and culture.
 
 
-## 第二部分：茶的种类 (Part 2: Types of Tea) - 约100个汉字
+## 第二部分：茶的种类 (Part 2: Types of Tea)  ~100 chars
 
 **中国有六种主要的茶。**  
 *Zhōng guó yǒu liù zhǒng zhǔ yào de chá.*  
@@ -106,7 +106,7 @@ Aid digestion
 *Zhōng guó yǒu jù lǎo huà: "Yī tiān sān bēi chá, huó dào jiǔ shí jiǔ."*  
 There is an old Chinese saying: "Three cups of tea a day, live to ninety-nine."
 
-## 第五部分：互动环节 (Part 5: Interactive Section) - 约55个汉字
+## 第五部分：互动环节 (Part 5: Interactive Section) - ~55 chars
 
 **现在我想和大家一起做一个小活动。**  
 *Xiàn zài wǒ xiǎng hé dà jiā yī qǐ zuò yī gè xiǎo huó dòng.*  
