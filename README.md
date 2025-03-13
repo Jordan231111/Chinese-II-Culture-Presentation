@@ -7,9 +7,9 @@
 *Dà jiā hǎo!*  
 Hello everyone!
 
-**我叫 [Your Name]。我今天要给大家介绍中国茶文化。**  
-*Wǒ jiào [Your Name]. Wǒ jīn tiān yào gěi dà jiā jiè shào Zhōng guó chá wén huà.*  
-My name is [Your Name]. Today I want to introduce Chinese tea culture to everyone.
+**我叫 叶智明。我今天要给大家介绍中国茶文化。**  
+*Wǒ jiào ye zhi ming. Wǒ jīn tiān yào gěi dà jiā jiè shào Zhōng guó chá wén huà.*  
+My name is Jordan Ye. Today I want to introduce Chinese tea culture to everyone.
 
 **中国人喝茶有五千多年的历史。**  
 *Zhōng guó rén hē chá yǒu wǔ qiān duō nián de lì shǐ.*  
