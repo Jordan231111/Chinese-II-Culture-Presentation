@@ -46,7 +46,7 @@ Black tea has a deep color and strong flavor. Many Westerners like to drink blac
 *Wū lóng chá shì qīng chá de yī zhǒng, zài Tái wān hěn shòu huān yíng.*  
 Oolong tea is a type of blue-green tea and is very popular in Taiwan.
 
-## 第三部分：茶道 (Part 3: Tea Ceremony) - 约90个汉字
+## 第三部分：茶道 (Part 3: Tea Ceremony) - 90 chars
 
 **中国茶道不只是为了解渴，也是一种生活方式。**  
 *Zhōng guó chá dào bù zhǐ shì wèi le jiě kě, yě shì yī zhǒng shēng huó fāng shì.*  
@@ -76,7 +76,7 @@ Fourth, add tea leaves, add water, and wait for one to two minutes.
 *Zuì hòu, màn man pǐn chá, gǎn shòu chá de xiāng wèi.*  
 Finally, slowly savor the tea and experience its aroma.
 
-## 第四部分：茶的健康好处 (Part 4: Health Benefits) - 约60个汉字
+## 第四部分：茶的健康好处 (Part 4: Health Benefits) - 60 chars
 
 **喝茶对健康有很多好处。**  
 *Hē chá duì jiàn kāng yǒu hěn duō hǎo chù.*  
