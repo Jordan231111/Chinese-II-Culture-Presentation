@@ -1,5 +1,5 @@
 
-# 中国茶文化 - Chinese Tea Culture Presentation Script
+# Chinese Tea Culture Presentation Script
 
 ## 第一部分：介绍 (Part 1: Introduction) ~75 chars
 
@@ -138,29 +138,6 @@ By studying tea culture, we can better understand Chinese history and culture.
 *Xiè xiè dà jiā tīng wǒ de jiè shào. Yǒu shén me wèn tí ma?*  
 Thank you everyone for listening to my introduction. Do you have any questions?
 
----
-
-## 幻灯片安排 (PowerPoint Slide Arrangement)
-
-**第一张幻灯片: 中国茶文化介绍**  
-*Slide 1: Introduction to Chinese Tea Culture*  
-[图片：美丽的茶园或传统茶具]
-
-**第二张幻灯片: 六种茶的种类**  
-*Slide 2: Six Types of Tea*  
-[图片：六种不同颜色的茶叶并排展示]
-
-**第三张幻灯片: 中国茶道**  
-*Slide 3: Chinese Tea Ceremony*  
-[图片：茶道步骤的图示]
-
-**第四张幻灯片: 茶的健康好处**  
-*Slide 4: Health Benefits of Tea*  
-[图片：表示健康的简单图标]
-
-**第五张幻灯片: 互动环节**  
-*Slide 5: Interactive Section*  
-[图片：不同茶叶的特写照片]
 
 
 
@@ -190,28 +167,4 @@ Thank you everyone for listening to my introduction. Do you have any questions?
 22. 文化 (wén huà) - culture
 23. 生活方式 (shēng huó fāng shì) - way of life
 24. 互动环节 (hù dòng huán jiē) - interactive section
-![image](https://github.com/user-attachments/assets/ad661dc2-6f59-4db1-b463-1e98e29db310)
 
-
----
-
-## 记忆技巧 (Memorization Tips)
-
-1. **分块记忆**：每个部分作为一个单独的块记忆，而不是试图一次记住整个演讲
-2. **视觉联想**：在幻灯片上使用图片作为记忆提示
-3. **关键词法**：为每个部分创建关键词，帮助记住内容顺序
-4. **手势记忆**：为不同部分设计特定的手势
-5. **分区眼神接触**：将房间分为几个区域，每个区域对应一个主题点
-
-## 中文汉字总数 (Total Chinese Character Count)
-
-介绍：75字  
-茶的种类：100字  
-茶道：90字  
-健康好处：60字  
-互动环节：55字  
-结论：40字  
-
-**总计**：约420个汉字（超过最低要求的350个）
-
----
