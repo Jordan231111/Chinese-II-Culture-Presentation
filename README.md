@@ -1,4 +1,3 @@
-
 # Chinese Tea Culture Presentation Script
 
 ## 第一部分：介绍 (Part 1: Introduction) ~75 chars
@@ -7,13 +6,13 @@
 *Dà jiā hǎo!*  
 Hello everyone!
 
-**我叫 叶智明。我今天要给大家介绍中国茶文化。**  
-*Wǒ jiào ye zhi ming. Wǒ jīn tiān yào gěi dà jiā jiè shào Zhōng guó chá wén huà.*  
-My name is Jordan Ye. Today I want to introduce Chinese tea culture to everyone.
+**我是叶智明。我是中文二的学生。我今天要跟大家分享中国茶文化。**  
+*Wǒ shì yè zhì míng. Wǒ shì zhōng wén èr de xué shēng. Wǒ jīn tiān yào gēn dà jiā fēn xiǎng Zhōng guó chá wén huà.*  
+I am Jordan Ye. I am a Chinese II student. Today I want to share about Chinese tea culture with everyone.
 
-**中国人喝茶有五千多年的历史。**  
-*Zhōng guó rén hē chá yǒu wǔ qiān duō nián de lì shǐ.*  
-Chinese people have been drinking tea for over 5,000 years.
+**中国人喝茶已有五千多年的历史。**  
+*Zhōng guó rén hē chá yǐ yǒu wǔ qiān duō nián de lì shǐ.*  
+Chinese people have already been drinking tea for over 5,000 years.
 
 **茶在中国的日常生活和文化中非常重要。**  
 *Chá zài Zhōng guó de rì cháng shēng huó hé wén huà zhōng fēi cháng zhòng yào.*  
@@ -102,27 +101,35 @@ Reduce stress
 *Bāng zhù xiāo huà*  
 Aid digestion
 
+**茶是中医养生的重要部分。**  
+*Chá shì Zhōng yī yǎng shēng de zhòng yào bù fèn.*  
+Tea is an important part of traditional Chinese medicine and wellness.
+
 **中国有句老话："一天三杯茶，活到九十九。"**  
 *Zhōng guó yǒu jù lǎo huà: "Yī tiān sān bēi chá, huó dào jiǔ shí jiǔ."*  
 There is an old Chinese saying: "Three cups of tea a day, live to ninety-nine."
 
 ## 第五部分：互动环节 (Part 5: Interactive Section) - ~55 chars
 
-**现在我想和大家一起做一个小活动。**  
-*Xiàn zài wǒ xiǎng hé dà jiā yī qǐ zuò yī gè xiǎo huó dòng.*  
-Now I'd like to do a small activity with everyone.
+**这里有一些简单的问题：**  
+*Zhè lǐ yǒu yī xiē jiǎn dān de wèn tí:*  
+Here are some simple questions:
 
-**我这里有几种茶的图片。请看一下并猜一猜是哪种茶。**  
-*Wǒ zhè lǐ yǒu jǐ zhǒng chá de tú piàn. Qǐng kàn yī xià bìng cāi yī cāi shì nǎ zhǒng chá.*  
-I have pictures of several types of tea here. Please look and guess which type of tea it is.
+**绿茶的味道怎么样？清淡还是浓？**  
+*Lǜ chá de wèi dào zěn me yàng? Qīng dàn hái shì nóng?*  
+How does green tea taste? Light or strong?
 
-**[展示图片后] 这是龙井茶，大家能看出它的特点吗？**  
-*[Zhǎn shì tú piàn hòu] Zhè shì lóng jǐng chá, dà jiā néng kàn chū tā de tè diǎn ma?*  
-[After showing the picture] This is Longjing tea, can everyone see its characteristics?
+**谁知道最有名的绿茶是什么？它来自哪里？**  
+*Shuí zhī dào zuì yǒu míng de lǜ chá shì shén me? Tā lái zì nǎ lǐ?*  
+Who knows what the most famous green tea is? Where is it from?
 
-**你们平时喜欢喝什么茶？你知道中国茶和西方茶有什么不同吗？**  
-*Nǐ men píng shí xǐ huān hē shén me chá? Nǐ zhī dào Zhōng guó chá hé xī fāng chá yǒu shén me bù tóng ma?*  
-What kind of tea do you like to drink usually? Do you know what differences exist between Chinese and Western tea?
+**中国茶和西方茶有一个明显的不同：西方人喜欢在什么茶里加牛奶？**  
+*Zhōng guó chá hé xī fāng chá yǒu yī gè míng xiǎn de bù tóng: Xī fāng rén xǐ huān zài shén me chá lǐ jiā niú nǎi?*  
+Chinese and Western tea have one obvious difference: Which tea do Westerners like to add milk to?
+(add an image and ask people as a follow up to point to it)
+**你最喜欢哪种茶？为什么？**  
+*Nǐ zuì xǐ huān nǎ zhǒng chá? Wèi shén me?*  
+Which tea do you like best? Why?
 
 ## 第六部分：结论 (Part 6: Conclusion) - 约40个汉字
 
