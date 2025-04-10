@@ -6,8 +6,8 @@
 *Dà jiā hǎo!*  
 Hello everyone!
 
-**我是叶智明。我是中文二的学生。我今天要跟大家分享中国茶文化。**  
-*Wǒ shì yè zhì míng. Wǒ shì zhōng wén èr de xué shēng. Wǒ jīn tiān yào gēn dà jiā fēn xiǎng Zhōng guó chá wén huà.*  
+**我是叶智明。我是中文二的学生。我今天要跟大家分享一下中国茶文化。**  
+*Wǒ shì yè zhì míng. Wǒ shì zhōng wén èr de xué shēng. Wǒ jīn tiān yào gēn dà jiā fēn xiǎng yī xià Zhōng guó chá wén huà.*  
 I am Jordan Ye. I am a Chinese II student. Today I want to share about Chinese tea culture with everyone.
 
 **中国人喝茶已有五千多年的历史。**  
@@ -18,6 +18,9 @@ Chinese people have already been drinking tea for over 5,000 years.
 *Chá zài Zhōng guó de rì cháng shēng huó hé wén huà zhōng fēi cháng zhòng yào.*  
 Tea is very important in Chinese daily life and culture.
 
+**接下来，我想介绍一下茶的种类。**  
+*Jiē xiàlái, wǒ xiǎng jièshào yīxià chá de zhǒnglèi.*  
+Next, I'd like to introduce the types of tea.
 
 ## 第二部分：茶的种类 (Part 2: Types of Tea)  ~100 chars
 
@@ -25,9 +28,9 @@ Tea is very important in Chinese daily life and culture.
 *Zhōng guó yǒu liù zhǒng zhǔ yào de chá.*  
 China has six main types of tea.
 
-**绿茶，红茶，白茶，黄茶，青茶和黑茶。**  
-*Lǜ chá, hóng chá, bái chá, huáng chá, qīng chá hé hēi chá.*  
-Green tea, black tea, white tea, yellow tea, oolong tea, and dark tea.
+**绿茶，黄茶，白茶，红茶，黑茶和青茶。**  
+*Lǜ chá, huáng chá, bái chá, hóng chá, hēi chá hé qīng chá.*  
+Green tea, yellow tea, white tea, black tea, dark tea, and oolong tea.
 
 **绿茶是中国最受欢迎的茶。它味道清淡，很新鲜。**  
 *Lǜ chá shì Zhōng guó zuì shòu huān yíng de chá. Tā wèi dào qīng dàn, hěn xīn xiān.*  
@@ -44,6 +47,10 @@ Black tea has a deep color and strong flavor. Many Westerners like to drink blac
 **乌龙茶是青茶的一种，在台湾很受欢迎。**  
 *Wū lóng chá shì qīng chá de yī zhǒng, zài Tái wān hěn shòu huān yíng.*  
 Oolong tea is a type of blue-green tea and is very popular in Taiwan.
+
+**接下来，我想介绍一下茶道。**  
+*Jiē xiàlái, wǒ xiǎng jièshào yīxià chádào.*  
+Next, I'd like to introduce the tea ceremony.
 
 ## 第三部分：茶道 (Part 3: Tea Ceremony) - 90 chars
 
@@ -74,6 +81,10 @@ Fourth, add tea leaves, add water, and wait for one to two minutes.
 **最后，慢慢品茶，感受茶的香味。**  
 *Zuì hòu, màn man pǐn chá, gǎn shòu chá de xiāng wèi.*  
 Finally, slowly savor the tea and experience its aroma.
+
+**接下来，我想介绍一下茶的健康好处。**  
+*Jiē xiàlái, wǒ xiǎng jièshào yīxià chá de jiànkāng hǎochù.*  
+Next, I'd like to introduce the health benefits of tea.
 
 ## 第四部分：茶的健康好处 (Part 4: Health Benefits) - 60 chars
 
@@ -109,29 +120,11 @@ Tea is an important part of traditional Chinese medicine and wellness.
 *Zhōng guó yǒu jù lǎo huà: "Yī tiān sān bēi chá, huó dào jiǔ shí jiǔ."*  
 There is an old Chinese saying: "Three cups of tea a day, live to ninety-nine."
 
-## 第五部分：互动环节 (Part 5: Interactive Section) - ~55 chars
+**接下来，我想总结一下今天的内容。**  
+*Jiē xiàlái, wǒ xiǎng zǒngjiē yīxià jīntiān de nèiróng.*  
+Next, I'd like to summarize today's content.
 
-**这里有一些简单的问题：**  
-*Zhè lǐ yǒu yī xiē jiǎn dān de wèn tí:*  
-Here are some simple questions:
-
-**绿茶的味道怎么样？清淡还是浓？**  
-*Lǜ chá de wèi dào zěn me yàng? Qīng dàn hái shì nóng?*  
-How does green tea taste? Light or strong?
-
-**谁知道最有名的绿茶是什么？它来自哪里？**  
-*Shuí zhī dào zuì yǒu míng de lǜ chá shì shén me? Tā lái zì nǎ lǐ?*  
-Who knows what the most famous green tea is? Where is it from?
-
-**中国茶和西方茶有一个明显的不同：西方人喜欢在什么茶里加牛奶？**  
-*Zhōng guó chá hé xī fāng chá yǒu yī gè míng xiǎn de bù tóng: Xī fāng rén xǐ huān zài shén me chá lǐ jiā niú nǎi?*  
-Chinese and Western tea have one obvious difference: Which tea do Westerners like to add milk to?
-(add an image and ask people as a follow up to point to it)
-**你最喜欢哪种茶？为什么？**  
-*Nǐ zuì xǐ huān nǎ zhǒng chá? Wèi shén me?*  
-Which tea do you like best? Why?
-
-## 第六部分：结论 (Part 6: Conclusion) - 约40个汉字
+## 第五部分：结论 (Part 5: Conclusion) - 约40个汉字
 
 **茶文化展示了中国人的生活智慧和文化传统。**  
 *Chá wén huà zhǎn shì le Zhōng guó rén de shēng huó zhì huì hé wén huà chuán tǒng.*  
@@ -141,11 +134,59 @@ Tea culture demonstrates Chinese people's wisdom of life and cultural traditions
 *Tōng guò xué xí chá wén huà, wǒ men kě yǐ gèng hǎo de lǐ jiě Zhōng guó de lì shǐ hé wén huà.*  
 By studying tea culture, we can better understand Chinese history and culture.
 
-**谢谢大家听我的介绍。有什么问题吗？**  
-*Xiè xiè dà jiā tīng wǒ de jiè shào. Yǒu shén me wèn tí ma?*  
-Thank you everyone for listening to my introduction. Do you have any questions?
+**谢谢大家听我的介绍。**  
+*Xiè xiè dà jiā tīng wǒ de jiè shào.*  
+Thank you everyone for listening to my introduction.
 
+## 第六部分：互动环节 (Part 6: Interactive Section) - ~55 chars
 
+**这里有一些简单的问题：**  
+*Zhè lǐ yǒu yī xiē jiǎn dān de wèn tí:*  
+Here are some simple questions:
+
+**请看这些茶的图片。**  
+*Qǐng kàn zhè xiē chá de tú piàn.*  
+Please look at these tea pictures.
+
+**第一张图片是龙井茶。这是中国最有名的绿茶，来自杭州。**  
+*Dì yī zhāng tú piàn shì lóng jǐng chá. Zhè shì Zhōng guó zuì yǒu míng de lǜ chá, lái zì Háng zhōu.*  
+The first picture is Longjing tea. This is China's most famous green tea, from Hangzhou.
+
+**第二张图片是奶红茶。西方人喜欢在红茶里加牛奶。**  
+*Dì èr zhāng tú piàn shì nǎi hóng chá. Xī fāng rén xǐ huān zài hóng chá lǐ jiā niú nǎi.*  
+The second picture is milk tea. Westerners like to add milk to black tea.
+
+**第三张图片是乌龙茶。这是青茶的一种，在台湾很受欢迎。**  
+*Dì sān zhāng tú piàn shì wū lóng chá. Zhè shì qīng chá de yī zhǒng, zài Tái wān hěn shòu huān yíng.*  
+The third picture is oolong tea. This is a type of blue-green tea and is very popular in Taiwan.
+
+**第四张图片是普洱茶。这是黑茶，很健康。**  
+*Dì sì zhāng tú piàn shì pǔ'ěr chá. Zhè shì hēi chá, hěn jiàn kāng.*  
+The fourth picture is Pu'er tea. This is a dark tea, very healthy.
+
+**现在，我有几个问题：**  
+*Xiàn zài, wǒ yǒu jǐ gè wèn tí:*  
+Now, I have a few questions:
+
+**你最喜欢哪种茶？为什么？**  
+*Nǐ zuì xǐ huān nǎ zhǒng chá? Wèi shén me?*  
+Which tea do you like best? Why?
+
+**在你的国家，人们喝什么茶？**  
+*Zài nǐ de guó jiā, rén men hē shén me chá?*  
+What tea do people drink in your country?
+
+**你喜欢什么时候喝茶？**  
+*Nǐ xǐ huān shén me shí hòu hē chá?*  
+When do you like to drink tea?
+
+**你知道这些茶的特点吗？**  
+*Nǐ zhī dào zhè xiē chá de tè diǎn ma?*  
+Do you know the characteristics of these teas?
+
+**有什么问题吗？**  
+*Yǒu shén me wèn tí ma?*  
+Do you have any questions?
 
 
 ## 汉字词汇表 (Chinese Vocabulary List)
@@ -174,4 +215,39 @@ Thank you everyone for listening to my introduction. Do you have any questions?
 22. 文化 (wén huà) - culture
 23. 生活方式 (shēng huó fāng shì) - way of life
 24. 互动环节 (hù dòng huán jiē) - interactive section
-
+25. 大家好 (dà jiā hǎo) - hello everyone
+26. 分享 (fēn xiǎng) - to share
+27. 日常生活 (rì cháng shēng huó) - daily life
+28. 受欢迎 (shòu huān yíng) - popular
+29. 味道清淡 (wèi dào qīng dàn) - light taste
+30. 新鲜 (xīn xiān) - fresh
+31. 有名 (yǒu míng) - famous
+32. 颜色深 (yán sè shēn) - deep color
+33. 味道浓 (wèi dào nóng) - strong flavor
+34. 乌龙茶 (wū lóng chá) - oolong tea
+35. 解渴 (jiě kě) - quench thirst
+36. 泡茶 (pào chá) - brew tea
+37. 准备 (zhǔn bèi) - to prepare
+38. 烧开水 (shāo kāi shuǐ) - boil water
+39. 水温 (shuǐ wēn) - water temperature
+40. 洗茶杯 (xǐ chá bēi) - rinse teacups
+41. 放茶叶 (fàng chá yè) - add tea leaves
+42. 加水 (jiā shuǐ) - add water
+43. 慢慢 (màn man) - slowly
+44. 感受 (gǎn shòu) - to experience
+45. 保护心脏 (bǎo hù xīn zàng) - protect the heart
+46. 减轻压力 (jiǎn qīng yā lì) - reduce stress
+47. 帮助消化 (bāng zhù xiāo huà) - aid digestion
+48. 中医 (zhōng yī) - traditional Chinese medicine
+49. 养生 (yǎng shēng) - wellness/health preservation
+50. 老话 (lǎo huà) - old saying
+51. 总结 (zǒng jiē) - to summarize
+52. 生活智慧 (shēng huó zhì huì) - wisdom of life
+53. 理解 (lǐ jiě) - to understand
+54. 谢谢 (xiè xiè) - thank you
+55. 问题 (wèn tí) - questions
+56. 图片 (tú piàn) - pictures
+57. 普洱茶 (pǔ'ěr chá) - Pu'er tea
+58. 为什么 (wèi shén me) - why
+59. 国家 (guó jiā) - country
+60. 特点 (tè diǎn) - characteristics
