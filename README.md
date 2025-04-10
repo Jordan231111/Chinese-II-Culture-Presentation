@@ -215,39 +215,26 @@ Do you have any questions?
 22. 文化 (wén huà) - culture
 23. 生活方式 (shēng huó fāng shì) - way of life
 24. 互动环节 (hù dòng huán jiē) - interactive section
-25. 大家好 (dà jiā hǎo) - hello everyone
-26. 分享 (fēn xiǎng) - to share
-27. 日常生活 (rì cháng shēng huó) - daily life
-28. 受欢迎 (shòu huān yíng) - popular
-29. 味道清淡 (wèi dào qīng dàn) - light taste
-30. 新鲜 (xīn xiān) - fresh
-31. 有名 (yǒu míng) - famous
-32. 颜色深 (yán sè shēn) - deep color
-33. 味道浓 (wèi dào nóng) - strong flavor
-34. 乌龙茶 (wū lóng chá) - oolong tea
-35. 解渴 (jiě kě) - quench thirst
-36. 泡茶 (pào chá) - brew tea
-37. 准备 (zhǔn bèi) - to prepare
-38. 烧开水 (shāo kāi shuǐ) - boil water
-39. 水温 (shuǐ wēn) - water temperature
-40. 洗茶杯 (xǐ chá bēi) - rinse teacups
-41. 放茶叶 (fàng chá yè) - add tea leaves
-42. 加水 (jiā shuǐ) - add water
-43. 慢慢 (màn man) - slowly
-44. 感受 (gǎn shòu) - to experience
-45. 保护心脏 (bǎo hù xīn zàng) - protect the heart
-46. 减轻压力 (jiǎn qīng yā lì) - reduce stress
-47. 帮助消化 (bāng zhù xiāo huà) - aid digestion
-48. 中医 (zhōng yī) - traditional Chinese medicine
-49. 养生 (yǎng shēng) - wellness/health preservation
-50. 老话 (lǎo huà) - old saying
-51. 总结 (zǒng jiē) - to summarize
-52. 生活智慧 (shēng huó zhì huì) - wisdom of life
-53. 理解 (lǐ jiě) - to understand
-54. 谢谢 (xiè xiè) - thank you
-55. 问题 (wèn tí) - questions
-56. 图片 (tú piàn) - pictures
-57. 普洱茶 (pǔ'ěr chá) - Pu'er tea
-58. 为什么 (wèi shén me) - why
-59. 国家 (guó jiā) - country
-60. 特点 (tè diǎn) - characteristics
+25. 日常生活 (rì cháng shēng huó) - daily life
+26. 受欢迎 (shòu huān yíng) - popular
+27. 味道清淡 (wèi dào qīng dàn) - light taste
+28. 新鲜 (xīn xiān) - fresh
+29. 颜色深 (yán sè shēn) - deep color
+30. 味道浓 (wèi dào nóng) - strong flavor
+31. 乌龙茶 (wū lóng chá) - oolong tea
+32. 解渴 (jiě kě) - quench thirst
+33. 泡茶 (pào chá) - brew tea
+34. 水温 (shuǐ wēn) - water temperature
+35. 洗茶杯 (xǐ chá bēi) - rinse teacups
+36. 放茶叶 (fàng chá yè) - add tea leaves
+37. 感受 (gǎn shòu) - to experience
+38. 保护心脏 (bǎo hù xīn zàng) - protect the heart
+39. 减轻压力 (jiǎn qīng yā lì) - reduce stress
+40. 帮助消化 (bāng zhù xiāo huà) - aid digestion
+41. 中医 (zhōng yī) - traditional Chinese medicine
+42. 养生 (yǎng shēng) - wellness/health preservation
+43. 老话 (lǎo huà) - old saying
+44. 总结 (zǒng jiē) - to summarize
+45. 生活智慧 (shēng huó zhì huì) - wisdom of life
+46. 普洱茶 (pǔ'ěr chá) - Pu'er tea
+47. 特点 (tè diǎn) - characteristics
